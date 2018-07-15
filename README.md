@@ -1,5 +1,5 @@
 # homework
-
+Deployed link: https://practical-murdock-c3c78d.netlify.com/
 > A Vue.js project
 
 ## Build Setup
